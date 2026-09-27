@@ -2,7 +2,7 @@
 
 A visual reporting dashboard designed to track proposal volume, response speed tiers, and outreach distribution across agency accounts.
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](B2B Funnel Analytics.png)
 
 ---
 
